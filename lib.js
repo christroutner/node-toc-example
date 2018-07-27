@@ -7,8 +7,8 @@
 "use strict"
 
 module.exports = {
- firstFunc,
- secondFunc
+ firstFunc, // This is a brief summary of what firstFunc() does.
+ secondFunc // This is another concise description.
 }
 
 function firstFunc() {
