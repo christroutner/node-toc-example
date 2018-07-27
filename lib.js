@@ -1,4 +1,7 @@
 /*
+ Notice that the module.exports function is at the top of the file, rather than in the footer.
+ This layout means that the module.exports function can behave as a kind of table-of-contents,
+ conveniently displaying the exported functions in this library file.
 */
 
 "use strict"
