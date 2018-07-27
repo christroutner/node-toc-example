@@ -20,3 +20,6 @@ function secondFunc() {
   console.log(`This is the second function`);
   return 8;
 }
+
+// Imagine this library file is huge with lots of support functions beyond this point.
+
