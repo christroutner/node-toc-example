@@ -11,11 +11,17 @@ module.exports = {
  secondFunc // This is another concise description.
 }
 
+/*
+  This is where a detailed, verbose description would go.
+*/
 function firstFunc() {
   console.log(`This is the first function`);
   return 4;
 }
 
+/*
+  Another verbose description.
+*/
 function secondFunc() {
   console.log(`This is the second function`);
   return 8;
